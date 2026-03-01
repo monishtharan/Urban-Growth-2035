@@ -7,7 +7,7 @@ Platform: Google Earth Engine (GEE)
 
 Data Source: Landsat 8 & Landsat 9 Satellite Imagery
 
-Classifier: Random Forest (Achieved 99.59% Overall Accuracy)
+Classifier: Random Forest & svm (Achieved 99.59% Overall Accuracy)
 
 Prediction Model: CA-Markov (Cellular Automata-Markov Chain)
 
@@ -22,6 +22,7 @@ Final Footprint: Chennai's urban area is estimated to reach 484.78 sq km by 2035
 
 Project Structure
 Plaintext
+
 ├── Data/               # Pre-processed Satellite Tiff files
 
 ├── Scripts/            # GEE JavaScript/Python API codes
