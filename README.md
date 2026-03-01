@@ -23,8 +23,11 @@ Final Footprint: Chennai's urban area is estimated to reach 484.78 sq km by 2035
 Project Structure
 Plaintext
 ├── Data/               # Pre-processed Satellite Tiff files
+
 ├── Scripts/            # GEE JavaScript/Python API codes
+
 ├── Results/            # Classified Maps & Accuracy Reports
+
 └── README.md           # Project Documentation
 
 Methodology
